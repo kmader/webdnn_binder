@@ -1,0 +1,3 @@
+[submodule "webdnn"]
+	path = webdnn
+	url = https://github.com/mil-tokyo/webdnn
