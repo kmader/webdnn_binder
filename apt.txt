@@ -1,3 +1,6 @@
 emscripten
 graphviz
 nodejs
+build-essential
+libssl-dev
+libeigen3-dev
