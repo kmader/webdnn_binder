@@ -7,6 +7,9 @@ dependencies:
   - numpy
   - pydot
   - pip:
+    - jupyter-client
+    - ipykernel
+    - ipython
     - nbgitpuller
     - sphinx-gallery
     - pandas

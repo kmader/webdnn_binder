@@ -1,4 +1,7 @@
+#!/bin/bash
 export PATH="$PATH"
+echo "$(pwd)"
+source activate webdnn-deploy
 jupyter nbextension install --user --py fileupload
 jupyter nbextension enable --user --py fileupload
 pip install --user -r webdnn/requirements/dev.txt

@@ -7,7 +7,7 @@ A stack making webdnn easy to use and a few basic notebooks for automatically ex
 
 # Model export
 
-- Binder Notebook for Keras Models [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/kmader/webdnn_binder/master?filepath=notebooks/overview.ipynb)
+- Binder Notebook for Keras Models [![Binder Keras](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/kmader/webdnn_binder/master?filepath=notebooks/overview.ipynb)
 
 # Image Classification
 
