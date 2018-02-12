@@ -1,4 +1,3 @@
-#!/bin/sh
 export PATH="$PATH"
 echo "$(pwd)"
 source activate webdnn-deploy
