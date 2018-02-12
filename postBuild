@@ -1,7 +1,2 @@
-export PATH="$PATH"
-echo "$(pwd)"
-echo "$(ls -l)"
-jupyter nbextension install --user --py fileupload
-jupyter nbextension enable --user --py fileupload
-pip3 install --user -r webdnn/requirements/dev.txt
-pip3 install --user webdnn/.
+pip install --user -r webdnn/requirements/dev.txt
+pip install --user webdnn/.
