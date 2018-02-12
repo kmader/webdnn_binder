@@ -1,4 +1,4 @@
-name: webdnn
+name: webdnn-deploy
 channels:
   - conda-forge
   - defaults
