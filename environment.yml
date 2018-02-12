@@ -1,0 +1,14 @@
+name: webdnn
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.6.1
+  - numpy
+  - pydot
+  - pip:
+    - nbgitpuller
+    - sphinx-gallery
+    - pandas
+    - matplotlib
+    - fileupload

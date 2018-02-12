@@ -1,0 +1,5 @@
+export PATH="$PATH"
+jupyter nbextension install --user --py fileupload
+jupyter nbextension enable --user --py fileupload
+pip install --user -r webdnn/requirements/dev.txt
+pip install --user webdnn/.
