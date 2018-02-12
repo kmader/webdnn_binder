@@ -1,3 +1,6 @@
 [submodule "webdnn"]
 	path = webdnn
 	url = https://github.com/mil-tokyo/webdnn
+[submodule "webdnn-data"]
+	path = webdnn-data
+	url = https://github.com/mil-tokyo/webdnn-data.git
